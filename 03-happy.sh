@@ -22,7 +22,7 @@ then
 else 
    echo "Today is a weekday. Keep focus on your work."
 fi
-	echo "happy let you feel more power today!"
-	echo "what is your feeling for good day?"
-	read feeling
+	echo "happy day!"
+	echo "What is happy?"
+	read what
 	
