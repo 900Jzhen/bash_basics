@@ -22,4 +22,5 @@ then
 else 
    echo "Today is a weekday. Keep focus on your work."
 fi
-	
+	echo "Why you are happy or not happy today?"
+	read why
