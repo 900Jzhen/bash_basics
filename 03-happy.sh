@@ -22,4 +22,6 @@ then
 else 
    echo "Today is a weekday. Keep focus on your work."
 fi
+	echo "Hello! happy day"
+	echo "Happy let you feel more power!"
 	
